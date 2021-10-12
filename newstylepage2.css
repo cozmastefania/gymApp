@@ -1,0 +1,132 @@
+body{
+    margin: 0;
+    padding: 0;
+    background-image: url("gymPics/bg66.jpg");
+    background-size: cover;
+    color: white;
+    font-family: Verdana;
+  }
+
+.table{
+    width: 80%;
+  }
+  
+  .tdpoza{
+    width: 40%;
+    height: 30%;
+    background-color: rgb(0,0,0); 
+    background-color: rgba(0,0,0, 0.45); 
+  }
+  .image2{
+    width: 600px;
+  height: 320px;  
+}
+  .image{
+    width: 400px;
+    height: 300px;
+    margin-left: 40px;
+    margin-top: 4px;
+  }
+  
+  .tdscris{
+    width: 60%;
+    text-align: justify-all;
+    height: 300px;
+    background-color: rgb(0,0,0); 
+    background-color: rgba(0,0,0, 0.45); 
+  }
+
+  
+.h1{
+    float: right;
+    margin-right: 400px;
+    margin-left: -100px;
+	font-size: 33px;
+	background-color: rgb(0,0,0); 
+  background-color: rgba(0,0,0, 0.45); 
+  border: 3px;
+  position: relative;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  z-index: 2;
+  width: 60%;
+  height: 10%;
+  padding: 20px;
+  text-align: center;
+  overflow: hidden;
+}
+
+.div1{
+    color: white;
+    background-color:rgba(10, 10, 10, 0.3);
+    border: 0;
+    font-size: 28px;
+    margin-top: -20px;
+    margin-left: 80px;
+    margin-bottom: 200px;
+}
+
+.div2{
+    font-size: 20px;
+    text-align: right;
+}
+.btn{
+    color: ivory;
+    background-color:rgba(10, 10, 10, 0.4);
+    height: 50px;
+    width: 60px;
+    font-size: 30px;
+    padding: 8px 10px;
+    margin-right: 0px;
+    
+}
+.btn3{
+  color: ivory;
+    background-color:rgba(10, 10, 10, 0.4);
+    height: 30px;
+    width: 120px;
+    font-size: 16px;
+    float: right;
+    padding: 8px 10px;
+}
+
+.btn2{
+  color: azure;
+  width: 100px;
+  height: 40px;
+  font-family: verdana;
+  background-color: rgba(0,0,0, 0.45);
+  border: black;
+}
+
+tr{
+  height: 350px;
+}
+
+.td1{
+  width: 50%;
+  height: 350px;
+}
+
+.td2{
+  width: 50%;
+  text-align: center;
+  /*background-color: rgb(0,0,0); 
+ background-color: rgba(0,0,0, 0.30); */
+}
+
+.table2{
+  width: 90%;
+  margin-left: 15px;
+  font-size: 21px;
+}
+
+.text{
+  text-align: center;
+}
+
+.lbl{
+  width: 800px;
+  height: 80px;
+}
